@@ -1,0 +1,89 @@
+Expansions list:
+01_FOTR
+02_MOM
+03_ROTEL
+04_TT
+05_BOHD
+06_EOF
+
+============================== 01_FOTR ==============================
+
+Set completion: 33.4%
+C set completion: 58.7%
+U set completion: 34.7%
+R set completion: 5.8%
+Foils number: 0
+
+Total number of missing C: 50
+Total number of missing U: 79
+Total number of missing R: 114
+Total number of missing cards: 243
+
+
+============================== 02_MOM ==============================
+
+Set completion: 34.4%
+C set completion: 60.0%
+U set completion: 30.0%
+R set completion: 10.0%
+Foils number: 0
+
+Total number of missing C: 16
+Total number of missing U: 28
+Total number of missing R: 36
+Total number of missing cards: 80
+
+
+============================== 03_ROTEL ==============================
+
+Set completion: 22.1%
+C set completion: 32.5%
+U set completion: 15.0%
+R set completion: 15.0%
+Foils number: 0
+
+Total number of missing C: 27
+Total number of missing U: 34
+Total number of missing R: 34
+Total number of missing cards: 95
+
+
+============================== 04_TT ==============================
+
+Set completion: 76.7%
+C set completion: 100.0%
+U set completion: 94.2%
+R set completion: 35.5%
+Foils number: 6
+
+Total number of missing U: 7
+Total number of missing R: 78
+Total number of missing cards: 85
+
+
+============================== 05_BOHD ==============================
+
+Set completion: 39.1%
+C set completion: 65.0%
+U set completion: 35.0%
+R set completion: 17.4%
+Foils number: 0
+
+Total number of missing C: 14
+Total number of missing U: 26
+Total number of missing R: 38
+Total number of missing cards: 78
+
+
+============================== 06_EOF ==============================
+
+Set completion: 53.1%
+C set completion: 87.5%
+U set completion: 52.5%
+R set completion: 21.7%
+Foils number: 0
+
+Total number of missing C: 5
+Total number of missing U: 19
+Total number of missing R: 36
+Total number of missing cards: 60
