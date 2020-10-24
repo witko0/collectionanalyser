@@ -5,7 +5,7 @@ printMissingCards = True
 
 import sys, pprint
 # make sure your python libs are in sys path
-sys.path.append('C:\Program Files (x86)\Python37-32\Lib\site-packages')
+#sys.path.append('C:\Program Files (x86)\Python37-32\Lib\site-packages')
 
 from openpyxl import load_workbook
 wb = load_workbook('lotrtcg_sets.xlsx')
@@ -21,6 +21,7 @@ for expansion in wb.sheetnames:
 	cards_C_no = 0
 	cards_U_no = 0
 	cards_R_no = 0
+	cards_P_no = 0
 	foils_no = 0
 	missing_C = 0
 	missing_C_log = []
@@ -36,10 +37,16 @@ for expansion in wb.sheetnames:
 	missing_S_log = []
 	missing_RF = 0
 	missing_RF_log = []
+	set_C_completion = 0
+	set_U_completion = 0
+	set_R_completion = 0
+	set_P_completion = 0
 
 	for row in set.rows:
 		if row[0].value == 'ID':
 			continue
+		if row[0].value == None:
+			break
 		if not row[4].value:
 			if 'C' in row[0].value:
 				missing_C = missing_C + 1
@@ -72,20 +79,33 @@ for expansion in wb.sheetnames:
 				cards_U_no = cards_U_no + 1
 			if 'R' in row[0].value:
 				cards_R_no = cards_R_no + 1
+			if 'P' in row[0].value:
+				cards_P_no = cards_P_no + 1
 
 	missing = missing_C + missing_U + missing_R + missing_P + missing_Rplus + missing_S + missing_RF
 	set_completion = 100 - (missing / cards_no) * 100
-	set_C_completion = 100 - (missing_C / cards_C_no) * 100
-	set_U_completion = 100 - (missing_U / cards_U_no) * 100
-	set_R_completion = 100 - (missing_R / cards_R_no) * 100
+	if cards_C_no:
+		set_C_completion = 100 - (missing_C / cards_C_no) * 100
+	if cards_U_no:
+		set_U_completion = 100 - (missing_U / cards_U_no) * 100
+	if cards_R_no:
+		set_R_completion = 100 - (missing_R / cards_R_no) * 100
+	if cards_P_no:
+		set_P_completion = 100 - (missing_P / cards_P_no) * 100
 
 	with open('lotrtcg_sets.txt', mode='a', encoding='utf-8') as myfile:
 		myfile.write('\n\n============================== ' + expansion + ' ==============================\n\n')
 		myfile.write('Set completion: ' + str(round(set_completion, 1)) + '%' + '\n')
-		myfile.write('C set completion: ' + str(round(set_C_completion, 1)) + '%' + '\n')
-		myfile.write('U set completion: ' + str(round(set_U_completion, 1)) + '%' + '\n')
-		myfile.write('R set completion: ' + str(round(set_R_completion, 1)) + '%' + '\n')
+		if cards_C_no:
+			myfile.write('C set completion: ' + str(round(set_C_completion, 1)) + '%' + '\n')
+		if cards_U_no:
+			myfile.write('U set completion: ' + str(round(set_U_completion, 1)) + '%' + '\n')
+		if cards_R_no:
+			myfile.write('R set completion: ' + str(round(set_R_completion, 1)) + '%' + '\n')
+		if cards_P_no:
+			myfile.write('P set completion: ' + str(round(set_P_completion, 1)) + '%' + '\n')
 		myfile.write('Foils number: ' + str(foils_no) + '\n\n')
+
 		if missing_C:
 			myfile.write('Total number of missing C: ' + str(missing_C) + '\n')
 		if missing_U:
@@ -104,6 +124,7 @@ for expansion in wb.sheetnames:
 			myfile.write('Total number of missing cards: ' + str(missing) + '\n')
 
 		if printMissingCards:
+			myfile.write('\n=== MISSING CARDS LIST ===\n')
 			if missing_C:
 				myfile.write('\n')
 				myfile.write('\n'.join(missing_C_log))
@@ -133,4 +154,16 @@ for expansion in wb.sheetnames:
 				myfile.write('\n'.join(missing_P_log))
 				myfile.write('\n')
 
-print('CollectionAnalyser finished - data rendered to lotrtcg_sets.txt')
+from fpdf import FPDF
+
+pdf = FPDF()
+pdf.add_page()
+pdf.set_font("Arial", size = 10)
+
+f = open("lotrtcg_sets.txt", encoding='utf-8')
+for x in f:
+	pdf.cell(10, 4, txt = x.encode('latin-1', 'ignore').decode(), ln = 1, align = 'L')
+
+pdf.output("lotrtcg_sets.pdf")
+
+print('CollectionAnalyser finished - data rendered to lotrtcg_sets.txt and lotrtcg_sets.pdf')

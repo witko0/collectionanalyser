@@ -1,0 +1,1235 @@
+Expansions list:
+00_PROMO
+01_FOTR
+02_MOM
+03_ROTEL
+04_TT
+05_BOHD
+06_EOF
+07_ROTK
+08_SOG
+10_MD
+
+============================== 00_PROMO ==============================
+
+Set completion: 11.1%
+P set completion: 11.1%
+Foils number: 0
+
+Total number of missing P: 24
+Total number of missing cards: 24
+
+=== MISSING CARDS LIST ===
+
+0P1 The Prancing Pony (P)
+0P2 •Bill the Pony (P)
+0P3 Fireworks (P)
+0P4 Council Courtyard (P)
+0P5 •Horn of Boromir (P)
+0P6 Balin's Tomb (P)
+0P7 •Book of Mazarbul (P)
+0P8 Galadriel's Glade (P)
+0P9 •Phial of Galadriel (P)
+0P10 •The Balrog, Durin's Bane (P)
+0P11 •Saruman, Servant of the Eye (P)
+0P12 •Gimli, Son of Gloin (P)
+0P13 •Legolas, Greenleaf (P)
+0P14 •Aragorn, Ranger of the North (P)
+0P15 •Legolas, Son of Thranduil (P)
+0P18 •Smeagol, Old Noser (P)
+0P19 •Theoden, King of the Golden Hall (P)
+0P20 Black Rider (P)
+0P21 •Treebeard, Guardian of the Forest (P)
+0P22 Fell Beast (P)
+0P23 •Aragorn, Captain of Gondor (P)
+0P24 •Legolas, Elven Stalwart (P)
+0P25 •Denethor, Wizened Steward (P)
+0P26 •Gandalf, Defender of the West (P)
+
+
+============================== 01_FOTR ==============================
+
+Set completion: 45.2%
+C set completion: 60.3%
+U set completion: 50.4%
+R set completion: 24.0%
+P set completion: 100.0%
+Foils number: 0
+
+Total number of missing C: 48
+Total number of missing U: 60
+Total number of missing R: 92
+Total number of missing cards: 200
+
+=== MISSING CARDS LIST ===
+
+1C4 Battle Fury
+1C5 Cleaving Blow
+1C6 Delving
+1C10 Dwarven Heart
+1C18 Halls of My Home
+1C21 Lord of Moria
+1C39 Elf-song
+1C41 Elven Bow
+1C42 Elven Cloak
+1C52 Lightfootedness
+1C53 Lorien Elf
+1C58 The Seen and the Unseen
+1C59 Shoulder to Shoulder
+1C61 Songs of the Blessed Realm
+1C67 •Uruviel, Maid of Lorien
+1C68 The White Arrows of Lorien
+1C82 Risk a Little Light
+1C84 Sleep, Caradhras
+1C102 Dagger Strike
+1C106 Gondor's Vengeance
+1C122 Breeding Pit
+1C134 Saruman's Chill
+1C144 Uruk Bloodlust
+1C145 Uruk Brood
+1C146 Uruk Fighter
+1C149 Uruk Messenger
+1C156 Uruk Warrior
+1C171 Frenzy
+1C174 Goblin Backstabber
+1C177 Goblin Patrol Troop
+1C184 Goblin Wallcrawler
+1C185 Goblin Warrior
+1C192 Pinned Down
+1C193 Plundered Armories
+1C197 Threat of the Unknown
+1C248 Forces of Mordor
+1C273 The Ring's Oppression
+1C283 You Bring Great Evil
+1C287 Extraordinary Resilience
+1C294 Hobbit Appetite
+1C295 Hobbit Farmer
+1C297 Hobbit Party Guest
+1C298 Hobbit Stealth
+1C300 Longbottom Leaf
+1C305 Old Toby
+1C306 •Pippin, Friend to Frodo
+1C315 Stout and Sturdy
+1C317 •There and Back Again
+
+1U17 •Grimir, Dwarven Elder
+1U29 Ancient Enmity
+1U31 •Asfaloth
+1U46 •Gift of Boats
+1U54 Mallorn-trees
+1U57 •Rumil, Elven Protector
+1U60 •Silinde, Elf of Mirkwood
+1U64 Support of the Last Homely House
+1U65 Swan-ship of the Galadhrim
+1U73 •Gandalf's Cart
+1U77 Let Folly Be Our Cloak
+1U91 •Aragorn's Pipe
+1U98 •Boromir's Cloak
+1U109 One Whom Men Would Follow
+1U126 Hunt Them Down!
+1U130 No Ordinary Storm
+1U135 Saruman's Frost
+1U142 Traitor's Voice
+1U159 Uruk-hai Rampage
+1U161 Wariness
+1U164 Bitter Hatred
+1U194 Relentless
+1U198 Through the Misty Mountains
+1U202 What Is This New Devilry?
+1U203 All Blades Perish
+1U211 Drawn to Its Power
+1U215 The Master's Will
+1U219 The Nine Servants of Sauron
+1U220 Not Easily Destroyed
+1U222 Paths Seldom Trodden
+1U223 Relentless Charge
+1U226 Their Power Is in Terror
+1U235 •Ulaire Otsea, Lieutenant of Morgul
+1U241 Curse From Mordor
+1U242 The Dark Lord's Summons
+1U249 Gleaming Spires Will Crumble
+1U251 A Host Avails Little
+1U257 Morgul Skirmisher
+1U275 Seeking It Always
+1U285 •Bilbo's Pipe
+1U292 •The Gaffer's Pipe
+1U293 Halfling Deftness
+1U301 •Master Proudfoot, Distant Relative of Bilbo
+1U309 •Rosie Cotton, Hobbiton Lass
+1U316 •A Talent for Not Being Seen
+1U319 Bag End
+1U322 Green Dragon Inn
+1U323 Green Hill Country
+1U325 Shire Lookout Point
+1U328 Bree Streets
+1U330 Buckleberry Ferry
+1U332 Midgewater Marshes
+1U333 Midgewater Moors
+1U335 Weatherhills
+1U336 Weathertop
+1U338 Ford of Bruinen
+1U341 Rivendell Valley
+1U342 Rivendell Waterfall
+1U343 Balin's Tomb
+1U347 Moria Stairway
+
+1R1 •The One Ring, Isildur's Bane
+1R13 •Gimli, Son of Gloin
+1R14 •Gimli's Battle Axe
+1R15 •Gimli's Helm
+1R16 •Greatest Kingdom of My People
+1R22 Mithril Shaft
+1R23 Nobody Tosses a Dwarf
+1R28 Wealth of Moria
+1R30 •Arwen, Daughter of Elrond
+1R33 •Bow of the Galadhrim
+1R34 •Celeborn, Lord of Lorien
+1R36 Curse Their Foul Feet!
+1R38 Double Shot
+1R40 •Elrond, Lord of Rivendell
+1R45 •Galadriel, Lady of Light
+1R47 •Gwemegil
+1R49 The Last Alliance of Elves and Men
+1R50 •Legolas, Greenleaf
+1R55 •The Mirror of Galadriel
+1R62 •The Splendor of Their Banners
+1R66 •The Tale of Gil-galad
+1R69 •Albert Dreary, Entertainer From Bree
+1R71 Durin's Secret
+1R72 •Gandalf, Friend of the Shirefolk
+1R75 •Glamdring
+1R79 The Nine Walkers
+1R81 Questions That Need Answering
+1R83 Servant of the Secret Fire
+1R87 A Wizard Is Never Late
+1R89 •Aragorn, Ranger of the North
+1R90 •Aragorn's Bow
+1R93 Arwen's Fate
+1R95 •Blade of Gondor
+1R96 •Boromir, Lord of Gondor
+1R99 Change of Plans
+1R114 •The Saga of Elendil
+1R120 Alive and Unspoiled
+1R123 Caradhras Has Not Forgiven Us
+1R125 Greed
+1R127 •Lurtz, Servant of Isengard
+1R128 Lurtz's Battle Cry
+1R129 The Misadventure of Mr. Underhill
+1R131 •Orthanc Assassin
+1R132 Parry
+1R139 Savagery to Match Their Numbers
+1R143 Troop of Uruk-hai
+1R148 Uruk Lieutenant
+1R155 Uruk Spy
+1R165 •Cave Troll of Moria, Scourge of the Black Pit
+1R166 •Cave Troll's Hammer
+1R167 Denizens Enraged
+1R170 Fool of a Took!
+1R172 Goblin Archer
+1R173 Goblin Armory
+1R175 Goblin Domain
+1R183 Goblin Swarms
+1R190 Moria Axe
+1R195 Relics of Moria
+1R208 Black Steed
+1R210 Dark Whispers
+1R212 Fear
+1R214 In the Ringwraith's Wake
+1R217 Morgul Gates
+1R221 •The Pale Blade
+1R224 Return to Its Master
+1R230 •Ulaire Cantea, Lieutenant of Dol Guldur
+1R236 •Ulaire Toldea, Messenger of Morgul
+1R237 •The Witch-king, Lord of Angmar
+1R240 Band of the Eye
+1R243 Despair
+1R244 Desperate Defense of the Ring
+1R245 Desperate Measures
+1R246 Enduring Evil
+1R247 Enheartened Foe
+1R253 Journey Into Danger
+1R254 Mordor Enraged
+1R256 Morgul Hunter
+1R259 •Morgul Warden
+1R263 Orc Banner
+1R264 Orc Bowmen
+1R265 Orc Butchery
+1R276 Seeking Its Master
+1R279 •Thin and Stretched
+1R282 The Weight of a Legacy
+1R284 •Bilbo, Retired Adventurer
+1R288 •Farmer Maggot, Chaser of Rascals
+1R289 •Frodo, Old Bilbo's Heir
+1R302 •Merry, Friend to Sam
+1R307 •Pippin, Hobbit of Some Intelligence
+1R308 Power According to His Stature
+1R313 •Sting
+1R318 •Thror's Map
+
+
+============================== 02_MOM ==============================
+
+Set completion: 57.4%
+C set completion: 60.0%
+U set completion: 37.5%
+R set completion: 72.5%
+P set completion: 100.0%
+Foils number: 1
+
+Total number of missing C: 16
+Total number of missing U: 25
+Total number of missing R: 11
+Total number of missing cards: 52
+
+=== MISSING CARDS LIST ===
+
+2C2 Disquiet of Our People
+2C9 Great Works Begun There
+2C26 Speak "Friend" and Enter
+2C35 Natural Cover
+2C40 Demands of the Sackville-Bagginses
+2C42 Goblin Man
+2C44 No Business of Ours
+2C51 •The Balrog, Durin's Bane
+2C55 Dark Places
+2C58 Foul Tentacle
+2C60 Goblin Bowman
+2C63 Goblin Reinforcements
+2C64 Goblin Scrabbler
+2C99 Deft in Their Movements
+2C117 Town Center
+2C119 Hollin
+
+2U8 Golden Light on the Land
+2U13 Tidings of Erebor
+2U16 A Blended Race
+2U28 Wielder of the Flame
+2U30 You Cannot Pass!
+2U31 Blood of Numenor
+2U33 Flee in Terror
+2U34 Gondor Will See It Done
+2U48 Wizard Storm
+2U54 Dark Fire
+2U56 Fill With Fear
+2U59 Foul Things
+2U67 Moria Archer Troop
+2U70 Power and Terror
+2U71 Throw Yourself in Next Time
+2U76 Helpless
+2U78 It Wants to be Found
+2U81 They Will Find the Ring
+2U83 •Ulaire Enquea, Ringwraith in Twilight
+2U96 •Bilbo, Well-spoken Gentlehobbit
+2U98 Dear Friends
+2U106 Nice Imitation
+2U115 Hobbiton Party Field
+2U118 Great Chasm
+2U120 Valley of the Silverlode
+
+2R1 Beneath the Mountains
+2R7 •Gloin, Friend to Thorin
+2R22 •Gandalf's Staff
+2R25 •Jarnsmid, Merchant from Dale
+2R32 Flaming Brand
+2R43 •Lurtz's Sword
+2R46 •Uruk Captain
+2R84 •Ulaire Nelya, Ringwraith in Twilight
+2R85 •The Witch-king, Lord of the Nazgul
+2R105 •Mithril-coat
+2R108 •O Elbereth! Gilthoniel!
+
+
+============================== 03_ROTEL ==============================
+
+Set completion: 39.3%
+C set completion: 40.0%
+U set completion: 35.0%
+R set completion: 40.0%
+P set completion: 100.0%
+Foils number: 0
+
+Total number of missing C: 24
+Total number of missing U: 26
+Total number of missing R: 24
+Total number of missing cards: 74
+
+=== MISSING CARDS LIST ===
+
+3C6 Storm of Argument
+3C11 Cast It Into the Fire!
+3C14 •Erestor, Chief Advisor to Elrond
+3C16 Friends of Old
+3C22 Master of Healing
+3C28 Voice of Nimrodel
+3C30 Deep in Thought
+3C31 Depart Silently
+3C32 Fireworks
+3C33 His First Serious Check
+3C36 Unknown Perils
+3C48 We Must Go Warily
+3C51 Coming for the Ring
+3C55 Isengard Axe
+3C76 Dangerous Gamble
+3C78 Hide and Seek
+3C84 They Will Never Stop Hunting You
+3C87 The Dark Lord Advances
+3C95 Orc Guard
+3C108 Frying Pan
+3C109 Meant to Be Alone
+3C111 •Old Noakes, Purveyor of Wisdoms
+3C112 Seek and Hide
+3C114 Three Monstrous Trolls
+
+3U2 •Gimli's Pipe
+3U4 A Royal Welcome
+3U5 Song of Durin
+3U9 Beren and Luthien
+3U10 •Calaglin, Elf of Lorien
+3U12 •Dinendal, Silent Scout
+3U24 •Phial of Galadriel
+3U26 Something Draws Near
+3U45 Some Who Resisted
+3U46 Still Sharp
+3U47 Voice of Rauros
+3U53 Hate and Anger
+3U72 Trapped and Alone
+3U73 The Trees Are Strong
+3U75 Uruk Ravager
+3U79 Malice
+3U82 News of Mordor
+3U83 •The Ring Draws Them
+3U86 •Ulaire Otsea, Ringwraith in Twilight
+3U88 Get Off the Road!
+3U96 Orc Pillager
+3U97 Orc Slayer
+3U100 Orc Veteran
+3U106 •Bill the Pony
+3U107 •Frodo's Pipe
+3U120 Wastes of Emyn Muil
+
+3R3 Mines of Khazad-Dum
+3R13 •Elrond, Herald to Gil-galad
+3R17 •Galadriel, Lady of the Golden Wood
+3R19 •Gift of the Evenstar
+3R21 •Long-knives of Legolas
+3R23 •Nenya
+3R27 •Vilya
+3R34 •Narya
+3R38 •Aragorn, Heir to the White City
+3R39 Banner of the White Tree
+3R40 Citadel of Minas Tirith
+3R44 •The Shards of Narsil
+3R66 •Orthanc Berserker
+3R68 •Saruman, Keeper of Isengard
+3R71 Tower of Orthanc
+3R81 Gates of the Dead City
+3R85 Too Great and Terrible
+3R91 His Cruelty and Malice
+3R93 Morgul Slayer
+3R102 •Our List of Allies Grows Thin
+3R103 Terrible as the Dawn
+3R104 Tower of Barad-dur
+3R105 Why Shouldn't I Keep It?
+3R110 •Melilot Brandybuck, Merry Dancer
+
+
+============================== 04_TT ==============================
+
+Set completion: 86.3%
+C set completion: 100.0%
+U set completion: 95.9%
+R set completion: 62.8%
+P set completion: 100.0%
+Foils number: 6
+
+Total number of missing U: 5
+Total number of missing R: 45
+Total number of missing cards: 50
+
+=== MISSING CARDS LIST ===
+
+4U86 •Thonnas, Naith Captain
+4U88 •Behold the White Rider
+4U123 Hard Choice
+4U155 Haunting Her Steps
+4U217 •Desert Lancers
+
+4R19 Hides
+4R22 •Hillman Horde
+4R29 •No Refuge
+4R40 •Wulf, Dunlending Chieftain
+4R46 •Ever My Heart Rises
+4R54 Rest by Blind Night
+4R55 Restless Axe
+4R61 Company of Archers
+4R73 •Legolas, Dauntless Hunter
+4R75 Lembas
+4R91 •Gandalf's Staff, Walking Stick
+4R92 Grown Suddenly Tall
+4R94 •Hearken to Me
+4R103 •Treebeard, Earthborn
+4R111 •Boromir, My Brother
+4R119 •Faramir's Cloak
+4R121 •Forests of Ithilien
+4R125 •Henneth Annun
+4R140 Beyond All Hope
+4R144 Burning of Westfold
+4R164 •Orthanc Champion
+4R166 •The Palantir of Orthanc, Seventh Seeing-stone
+4R171 Rest While You Can
+4R176 •Ugluk, Servant of Saruman
+4R177 •Ugluk's Sword
+4R200 Uruk Vanguard
+4R209 Volley Fire
+4R213 What Did You Discover?
+4R215 Wounded
+4R219 •Desert Lord
+4R231 •Eastern Emyn Muil
+4R244 •Regiment of Haradrim
+4R245 Southron Archer
+4R246 Southron Assassin
+4R267 •Eomer, Third Marshal of Riddermark
+4R271 •Eowyn, Sister-daughter of Theoden
+4R274 •Firefoot
+4R279 Helm! Helm!
+4R293 Valleys of the Mark
+4R300 Escape
+4R301 •Frodo, Courteous Halfling
+4R303 •Frodo's Cloak
+4R311 •Merry, Unquenchable Hobbit
+4R313 •Pippin, Just a Nuisance
+4R317 •Sam's Pack
+
+
+============================== 05_BOHD ==============================
+
+Set completion: 53.1%
+C set completion: 72.5%
+U set completion: 42.5%
+R set completion: 43.5%
+P set completion: 100.0%
+Foils number: 2
+
+Total number of missing C: 11
+Total number of missing U: 23
+Total number of missing R: 26
+Total number of missing cards: 60
+
+=== MISSING CARDS LIST ===
+
+5C6 Defending the Keep
+5C14 That Is No Orc Horn
+5C17 Forest Guardian
+5C32 •Citadel of the Stars
+5C36 Knight of Gondor
+5C37 Men of Numenor
+5C40 Take Cover
+5C43 War Must Be
+5C61 Uruk Engineer
+5C81 •Ecglaf, Courageous Farmer
+5C106 Orc Infantry
+
+5U8 •Horn of Helm
+5U9 •More to My Liking
+5U12 •Legolas' Sword
+5U13 •Taurnil, Sharp-eyed Bowman
+5U20 Turn of the Tide
+5U22 Evil-smelling Fens
+5U26 Look at Him
+5U34 Fall Back
+5U38 Rally Point
+5U42 •Turgon, Man of Belfalas
+5U44 Battering Ram
+5U45 •Berserk Rager
+5U54 Isengard Scimitar
+5U57 Scaling Ladder
+5U60 Siege Engine
+5U77 Strength in Numbers
+5U79 •Armory
+5U87 •Parapet
+5U92 •Sigewulf, Brave Volunteer
+5U101 I'd Make You Squeak
+5U105 Orc Fighter
+5U107 •Orc Patrol
+5U110 Teeth of Mordor
+
+5R5 Baruk Khazad
+5R16 Down From the Hills
+5R18 Fury of the White Rider
+5R19 •Lindenroot, Elder Shepherd
+5R21 Be Back Soon
+5R31 •Alcarin, Warrior of Lamedon
+5R46 •Berserk Savage
+5R47 •Berserk Slayer
+5R49 •Devilry of Orthanc
+5R51 •Grima, Chief Counselor
+5R56 •Saruman, Master of Foul Folk
+5R58 •Sharku, Warg-captain
+5R59 •Sharku's Warg
+5R69 Wolves of Isengard
+5R70 •Army of Haradrim
+5R71 Company of Haradrim
+5R78 War Mumak
+5R82 •Gamling, Warrior of Rohan
+5R84 I Am Here
+5R89 Rohirrim Helm
+5R94 Thundering Host
+5R95 •Dead Marshes
+5R96 Eye of Barad-Dur
+5R102 •Morannon
+5R112 No Help for It
+5R116 •Sting, Baggins Heirloom
+
+
+============================== 06_EOF ==============================
+
+Set completion: 79.7%
+C set completion: 95.0%
+U set completion: 62.5%
+R set completion: 80.4%
+P set completion: 100.0%
+Foils number: 4
+
+Total number of missing C: 2
+Total number of missing U: 15
+Total number of missing R: 9
+Total number of missing cards: 26
+
+=== MISSING CARDS LIST ===
+
+6C43 Not Listening
+6C81 Southron Invaders
+
+6U13 •Arwen, Evenstar of Her People
+6U14 Banner of Elbereth
+6U19 Gift of Foresight
+6U20 Must Be a Dream
+6U54 Perilous Ventures
+6U58 Assault Ladder
+6U61 Desertion
+6U75 Twisted Tales
+6U105 Peril
+6U110 It Burns Us
+6U115 Rocks of Emyn Muil
+6U116 Westfold
+6U117 Meduseld
+6U118 Hornburg Hall
+6U119 Valley of Saruman
+
+6R11 Toss Me
+6R28 •Ent Horde
+6R31 •Glamdring, Lightning Brand
+6R35 •Skinbark, Fladrif
+6R50 •Aragorn, Defender of Free Peoples
+6R57 Agents of Orthanc
+6R74 •Sharku, Vile Marauder
+6R88 •Ulaire Toldea, Winged Sentry
+6R106 Troll of Udun
+
+
+============================== 07_ROTK ==============================
+
+Set completion: 7.1%
+C set completion: 9.9%
+U set completion: 11.6%
+R set completion: 0.0%
+P set completion: 0.0%
+Foils number: 0
+
+Total number of missing C: 109
+Total number of missing U: 107
+Total number of missing R: 121
+Total number of missing P: 2
+Total number of missing cards: 339
+
+=== MISSING CARDS LIST ===
+
+7C4 Calculated Risk
+7C6 •Gimli, Faithful Companion
+7C11 Out of Darkness
+7C20 Defiance
+7C23 Into the West
+7C26 •Legolas, Nimble Warrior
+7C29 Still Needed
+7C30 Uncertain Paths
+7C34 Echoes of Valinor
+7C40 Have Patience
+7C46 Peace of Mind
+7C51 Undaunted
+7C52 Wizard Staff
+7C53 Captured by the Ring
+7C59 •Gollum, Vile Creature
+7C62 It's Mine
+7C65 Never
+7C72 •Smeagol, Hurried Guide
+7C75 Sweeter Meats
+7C76 Very Nice Friends
+7C81 •Aragorn, Captain of Gondor
+7C82 •Cirion
+7C83 City of Men
+7C84 Dagger Strike
+7C86 •Denethor, Wizened Steward
+7C89 Duty of Two
+7C90 •Faramir, Stout Captain
+7C92 First Level
+7C96 Gondorian Captain
+7C99 Great Gate
+7C105 •I Will Go
+7C106 •Ingold
+7C108 Knight's Spear
+7C111 Man the Walls
+7C115 Ranger of Minas Tirith
+7C116 Ranger of Osgiliath
+7C117 Reckless Counter
+7C118 Second Level
+7C121 Stout Resistance
+7C124 •Targon
+7C130 Dark Tidings
+7C131 Desert Fighter
+7C132 Desert Nomad
+7C133 Desert Runner
+7C135 Desert Sneak
+7C137 Desert Spearman
+7C139 Easterling Aggressor
+7C140 Easterling Assailant
+7C141 Easterling Attacker
+7C142 Easterling Blademaster
+7C144 Easterling Ransacker
+7C149 Great Beasts
+7C150 Harsh Tongues
+7C153 Mumakil of the Harad
+7C154 New Strength Came Now
+7C155 Raider Bow
+7C156 Raider Halberd
+7C161 Southron Brigand
+7C172 Troop of Haradrim
+7C173 War Towers
+7C184 More Unbearable
+7C189 Morgul Cur
+7C192 Morgul Hound
+7C194 Morgul Mongrel
+7C198 Morgul Ruffian
+7C199 Morgul Soldier
+7C200 Morgul Spawn
+7C201 Morgul Spearman
+7C208 There Came a Cry
+7C209 Too Late
+7C220 War Long Planned
+7C222 •Deor
+7C225 Elite Rider
+7C226 Enraged Horseman
+7C229 •Eowyn, Restless Maiden
+7C235 •Guthlaf, Herald
+7C237 His Golden Shield
+7C240 Long Spear
+7C243 Morning Came
+7C246 Rohirrim Guard
+7C247 Rohirrim Herdsman
+7C248 Rohirrim Javelin
+7C253 Swift Steed
+7C256 They Sang as They Slew
+7C257 Veteran Horseman
+7C259 Wind in His Face
+7C262 Above the Battlement
+7C263 Anguish
+7C265 Besieging Pike
+7C273 Gorgoroth Garrison
+7C275 Gorgoroth Pillager
+7C276 Gorgoroth Ransacker
+7C277 Gorgoroth Sapper
+7C285 Mordor Defender
+7C287 Mordor Guard
+7C288 Mordor Regular
+7C290 Mordor Soldier
+7C291 Mordor Trooper
+7C296 Orc Brood
+7C297 Orc Butcher
+7C298 Orc Chaser
+7C299 Orc Destroyer
+7C300 Orc Fanatic
+7C303 Orc Pursuer
+7C304 Orc Rager
+7C312 Siegecraft
+7C313 Some Secret Art of Flame
+7C315 •Tower Walkway
+7C326 •Sam, Needer of Vittles
+
+7U3 Battle Tested
+7U8 •Gimli's Armor
+7U13 •Reckless Pride
+7U14 Slaked Thirsts
+7U15 •Ancient Blade
+7U19 Careful Study
+7U35 Fool's Hope
+7U42 King's Advisor
+7U45 Numenor's Pride
+7U47 Sharpen Your Swords
+7U49 •Steadfast Champion
+7U54 Clever Hobbits
+7U55 Days Growing Dark
+7U60 Heavy Burden
+7U64 Nasty
+7U77 •We Hates Them
+7U78 Where Shall We Go
+7U88 •Dervorin
+7U93 Footman's Armor
+7U94 Gondor Bow
+7U98 Gondorian Sword
+7U102 Hasty Repairs
+7U107 •Iorlas
+7U109 Long Prepared
+7U110 •Madril, Faramir's Aide
+7U120 Stand to Arms
+7U123 Support of the City
+7U125 Third Level
+7U126 •Unexpected Visitor
+7U128 While We Yet Live
+7U134 Desert Scout
+7U136 Desert Soldier
+7U138 Desert Villain
+7U146 Easterling Sergeant
+7U147 Easterling Veteran
+7U151 Hosts Still Unfought
+7U157 Red Wrath
+7U160 Southron Bandit
+7U162 Southron Captain
+7U168 Southron Thief
+7U171 Thrice Outnumbered
+7U174 Called
+7U175 Corrupt
+7U176 Disposable Servants
+7U178 Foul Clutches
+7U185 Morgul Answers
+7U187 Morgul Brawler
+7U190 Morgul Destroyer
+7U195 •Morgul on the March
+7U202 Morgul Whelp
+7U203 Nazgul Scimitar
+7U207 Their Power Is in Terror
+7U212 •Ulaire Enquea, Faster Than Winds
+7U214 •Ulaire Lemenya, Wraith on Wings
+7U216 •Ulaire Nelya, Black-Mantled Wraith
+7U217 •Ulaire Nertea, Black-Mantled Wraith
+7U218 •Ulaire Otsea, Black-Mantled Wraith
+7U224 •Elfhelm, Marshal of Rohan
+7U231 Fey He Seemed
+7U234 Guarded Fastness
+7U238 Knights of His House
+7U244 Mustering for Battle
+7U245 Riding Armor
+7U252 Strong Arms
+7U254 •Theoden, Leader of Spears
+7U258 White Hot Fury
+7U264 •Army of Udun
+7U270 Gorgoroth Attacker
+7U271 Gorgoroth Axeman
+7U272 Gorgoroth Engineer
+7U278 Gorgoroth Soldier
+7U280 Great Peril of Fire
+7U281 Great Siege-towers
+7U282 •Host of Udun
+7U289 Mordor Savage
+7U293 Mordor Warrior
+7U294 •Orc Archer Troop
+7U295 Orc Assault Band
+7U301 Orc Marauder
+7U302 Orc Officer
+7U305 Orc Savage
+7U307 Orc Stalker
+7U309 Rope and Winch
+7U310 Sauron's Hatred
+7U328 •Slow-kindled Courage
+7U329 Dunharrow Plateau
+7U330 Edoras Hall
+7U331 Isengard Ruined
+7U332 Rohirrim Road
+7U337 West Road
+7U339 Hall of the Kings
+7U340 Tower of Ecthelion
+7U342 Osgiliath Fallen
+7U343 Pelennor Plain
+7U345 Pelennor Flat
+7U347 Minas Tirith First Circle
+7U348 Minas Tirith Fourth Circle
+7U349 Minas Tirith Second Circle
+7U350 Minas Tirith Seventh Circle
+7U351 Minas Tirith Sixth Circle
+7U353 Osgiliath Crossing
+7U355 Ruined Capitol
+7U356 Cross Roads
+7U358 Morgulduin
+7U359 Northern Ithilien
+7U361 Haunted Pass
+7U362 Narchost
+
+7R2 •The One Ring, Such a Weight to Carry
+7R5 Dark Ways
+7R7 •Gimli, Feared Axeman
+7R9 •Gimli's Battle Axe, Trusted Weapon
+7R10 Loyalty Unshaken
+7R12 Preparations
+7R16 •Arwen, Fair Elf Maiden
+7R17 •Asfaloth, Elven Steed
+7R18 •Bow of the Galadhrim, Gift of Galadriel
+7R21 •Elrond, Elven Lord
+7R22 •Hope Comes
+7R24 Leaving Forever
+7R25 •Legolas, Fearless Marksman
+7R27 Mirkwood Bowman
+7R28 •Shadow Between
+7R32 The Board Is Set
+7R33 Citadel to Gate
+7R37 •Gandalf, Manager of Wizards
+7R38 •Gandalf's Staff, Focus of Power
+7R39 •Glamdring, Elven Blade
+7R43 Light the Beacons
+7R44 •Moment of Respite
+7R48 Stay This Madness
+7R50 Terrible and Evil
+7R56 The Dead City
+7R57 •Fat One Wants It
+7R58 •Gollum, Plotting Deceiver
+7R61 Hobbitses Are Dead
+7R63 Let Her Deal With Them
+7R66 No Safe Places
+7R67 •Plotting
+7R68 Scouting
+7R69 Secret Paths
+7R70 Serving the Precious
+7R71 •Smeagol, Always Helps
+7R73 Sneaking!
+7R74 So Polite
+7R79 •Anduril, Flame of the West
+7R80 •Anduril, King's Blade
+7R85 •Denethor, Steward of the City
+7R87 •Derufin
+7R91 •Faramir, Wizard's Pupil
+7R95 •Gondor Still Stands
+7R97 •Gondorian Merchant
+7R100 Greatest Stronghold
+7R101 Guarded
+7R103 Hearts Raised
+7R104 Hidden Knowledge
+7R112 •Noble Leaders
+7R113 •Pippin's Armor
+7R114 •Pippin's Sword
+7R119 •Seventh Level
+7R122 •Strong and Old
+7R127 •Vorondil
+7R129 •Bold Men and Grim
+7R143 Easterling Footman
+7R145 •Easterling Regiment
+7R148 Fierce in Despair
+7R152 Mumak Commander
+7R158 Rout
+7R159 Small Hope
+7R163 Southron Chieftain
+7R164 Southron Conqueror
+7R165 Southron Intruder
+7R166 Southron Leader
+7R167 Southron Marksmen
+7R169 Surging Up
+7R170 •Suzerain of Harad
+7R177 Feel His Blade
+7R179 Ghastly Host
+7R180 •Gorbag, Lieutenant of Cirith Ungol
+7R181 •Held Ground
+7R182 Loathsome
+7R183 Mind and Body
+7R188 Morgul Brute
+7R191 Morgul Detachment
+7R197 Morgul Regiment
+7R204 •Out of Sight and Shot
+7R205 Put Forth His Strength
+7R206 •Stronghold of Minas Morgul
+7R210 •Ulaire Attea, Wraith on Wings
+7R211 •Ulaire Cantea, Faster Than Winds
+7R213 •Ulaire Lemenya, Assailing Minion
+7R215 •Ulaire Nelya, Assailing Minion
+7R219 •Ulaire Toldea, Wraith on Wings
+7R221 •The Witch-king, Morgul King
+7R223 Death They Cried
+7R227 •Eomer, Skilled Tactician
+7R228 •Eowyn, Dernhelm
+7R230 •Eowyn's Sword, Dernhelm's Blade
+7R232 •Firefoot, Eomer's Steed
+7R233 •Grimbold, Marshal of Rohan
+7R236 •Herugrim, Sword of the Mark
+7R239 •Leowyn
+7R241 •Merry's Armor
+7R242 •Merry's Sword
+7R249 Seeking New Foes
+7R250 •Snowmane
+7R251 Stern People
+7R255 •Theoden, Rekindled King
+7R260 •Windfola
+7R261 With Strength to Fight
+7R266 Breached
+7R267 Din of Arms
+7R268 •Encirclement
+7R269 Fires Raged Unchecked
+7R274 Gorgoroth Officer
+7R279 •Gorgoroth Troop
+7R283 •Legions of Morgul
+7R284 Mordor Assassin
+7R286 Mordor Fighter
+7R306 •Orc Seeker
+7R308 Rally the Host
+7R311 •Siege Commander
+7R314 •Stronghold of Cirith Ungol
+7R316 •Troop Tower
+7R318 •Frodo, Wicked Masster!
+7R321 •Merry, Swordthain
+7R324 •Pippin, Wearer of Black and Silver
+7R325 Pressing On
+7R327 •Sam, Resolute Halfling
+
+7P364 •Aragorn, Driven by Need
+7P365 •Eomer, Valiant Warchief
+
+
+============================== 08_SOG ==============================
+
+Set completion: 4.1%
+C set completion: 2.5%
+U set completion: 10.0%
+R set completion: 0.0%
+P set completion: 0.0%
+Foils number: 0
+
+Total number of missing C: 39
+Total number of missing U: 36
+Total number of missing R: 40
+Total number of missing P: 2
+Total number of missing cards: 117
+
+=== MISSING CARDS LIST ===
+
+8C1 Aggression
+8C5 •Gimli, Counter of Foes
+8C6 Honed
+8C10 •Legolas, Elven Stalwart
+8C14 A Fool
+8C22 Hidden Even From Her
+8C26 •Shelob, Last Child of Ungoliant
+8C28 Spider Poison
+8C30 Web
+8C31 At His Command
+8C34 •Faramir, Defender of Osgiliath
+8C35 Fourth Level
+8C39 Knight of Dol Amroth
+8C40 Knight's Mount
+8C47 Stronger and More Terrible
+8C48 Swept Away
+8C50 Black Sails of Umbar
+8C52 Corsair Ballista
+8C53 Corsair Buccaneer
+8C54 Corsair Freebooter
+8C55 Corsair Gunners
+8C58 Corsair Plunderer
+8C61 •Haradwaith
+8C63 Line of Defense
+8C66 Wind That Sped Ships
+8C74 Morgul Ambusher
+8C75 Morgul Creeper
+8C76 Morgul Lurker
+8C87 •Eomer, Keeper of Oaths
+8C89 Fury of the Northmen
+8C90 No Living Man
+8C101 Gorgoroth Stormer
+8C102 Great Hill Troll
+8C104 •Morgai
+8C106 Siege Troop
+8C109 Closer and Closer He Bent
+8C111 So Fair, So Desperate
+8C114 Straining Towards Us
+8C116 We Shall Meet Again Soon
+
+8U4 Counts But One
+8U8 Wish For Our Kinfolk
+8U9 A Grey Ship
+8U13 Shake Off the Shadow
+8U16 Let Us Not Tarry
+8U17 Mighty Steed
+8U18 Not the First Halfling
+8U19 On Your Doorstep
+8U23 Larder
+8U29 Still Far Ahead
+8U42 A Path Appointed
+8U44 Sixth Level
+8U56 Corsair Lookout
+8U59 Corsair War Galley
+8U60 •Haradrim Marksman
+8U64 Mumakil
+8U69 Black Dart
+8U71 •Flung Into the Fray
+8U73 Mastered By Madness
+8U78 •Streaming to the Field
+8U79 •Ulaire Attea, Thrall of the One
+8U80 •Ulaire Nertea, Thrall of the One
+8U82 Unhindered
+8U83 Winged Mount
+8U85 Charged Headlong
+8U86 Doom Drove Them
+8U94 Gorgoroth Agitator
+8U97 Gorgoroth Breaker
+8U98 Gorgoroth Looter
+8U99 Gorgoroth Patrol
+8U100 Gorgoroth Servitor
+8U107 Their Marching Companies
+8U110 •Morgai Foothills
+8U112 Song of the Shire
+8U118 City of the Dead
+8U119 Crashed Gate
+
+8R2 Battle in Earnest
+8R3 Blood Runs Chill
+8R7 Unheard of
+8R11 Life of the Eldar
+8R12 Reckless We Rode
+8R15 •Gandalf, Leader of Men
+8R20 Saved From the Fire
+8R21 •Shadowfax, Greatheart
+8R24 •Promise Keeping
+8R25 •Shelob, Eater of Light
+8R27 •Smeagol, Slippery Sneak
+8R32 Catapult
+8R33 Elessar's Edict
+8R36 •Garrison of Gondor
+8R37 •Imrahil, Prince of Dol Amroth
+8R38 •King of the Dead, Oathbreaker
+8R43 •Shadow Host
+8R49 Black Numenorean
+8R51 •Castamir of Umbar
+8R57 Corsair Marauder
+8R62 •Heavy Axeman
+8R65 Ships of Great Draught
+8R67 Between Nazgul and Prey
+8R68 Beyond All Darkness
+8R70 •Black Flail
+8R72 •Gothmog, Morgul Commander
+8R77 Morgul Squealer
+8R81 •Ulaire Otsea, Thrall of the One
+8R84 •The Witch-king, Black Captain
+8R88 •Eowyn's Shield
+8R91 •Rohirrim Army
+8R92 •Theoden, Tall and Proud
+8R93 Called Away
+8R95 Gorgoroth Assassin
+8R96 Gorgoroth Berserker
+8R103 •Grond, Hammer of the Underworld
+8R105 Olog-hai of Mordor
+8R108 •Troll of Gorgoroth, Abomination of Sauron
+8R113 •Sting, Bane of the Eight Legs
+8R115 Unheeded
+
+8P121 •Merry, Noble Warrior
+8P122 •Pippin, Guard of Minas Tirith
+
+
+============================== 10_MD ==============================
+
+Set completion: 27.9%
+C set completion: 37.5%
+U set completion: 27.5%
+R set completion: 15.0%
+P set completion: 100.0%
+Foils number: 0
+
+Total number of missing C: 25
+Total number of missing U: 29
+Total number of missing R: 34
+Total number of missing cards: 88
+
+=== MISSING CARDS LIST ===
+
+10C10 Fleet-footed
+10C24 •Unabated in Malice
+10C31 Every Little is a Gain
+10C34 Last Throw
+10C36 Cast Unto the Winds
+10C37 Corsair Boatswain
+10C41 •Easterling Pillager
+10C42 Far Harad Mercenaries
+10C49 Southron Fanatic
+10C50 Southron Savage
+10C52 •Under Foot
+10C62 Morgul Banner-bearer
+10C64 •Stooping to the Kill
+10C65 Swarming Like Beetles
+10C76 Advance Marauder
+10C77 Advance Regular
+10C80 Beaten Back
+10C85 •Flames Within
+10C86 Gorgoroth Keeper
+10C87 Gorgoroth Swarm
+10C90 Mordor Brute
+10C91 Mordor Fiend
+10C103 Window of the Eye
+10C107 Great Heart
+10C109 Make Haste
+
+10U2 •Memories of Darkness
+10U4 •Aegnor, Elven Escort
+10U5 •Arwen, Echo of Luthien
+10U12 •Glimpse of Fate
+10U15 •Brooding on Tomorrow
+10U20 Final Strike
+10U22 Reclaim the Precious
+10U26 •Cursed of Erech
+10U32 Fifth Level
+10U33 •Hardy Garrison
+10U35 Suffered Much Loss
+10U39 Corsair Ruffian
+10U43 Field of the Fallen
+10U44 High Vantage
+10U47 Rallying Call
+10U53 Black Marshal
+10U69 •Ulaire Lemenya, Thrall of the One
+10U70 •Ulaire Nelya, Thrall of the One
+10U73 •Fell Deeds Awake
+10U74 Unyielding
+10U78 Advance Scout
+10U92 Mordor Pillager
+10U93 Mordor Wretch
+10U97 The Ring is Mine!
+10U98 Ruinous Hail
+10U108 •A Light in His Mind
+10U114 Shadowplay
+10U115 Slunk Out of Sight
+10U117 Base of Mindolluin
+
+10R1 Great Day, Great Hour
+10R3 More Yet to Come
+10R6 •Arwen, Queen of Elves and Men
+10R8 •Cirdan, The Shipwright
+10R9 •Elrond, Venerable Lord
+10R11 •Galadriel, Lady Redeemed
+10R13 •Phial of Galadriel, Star-glass
+10R14 Borne Far Away
+10R17 Out of the High Airs
+10R18 •Treebeard, Keeper of the Watchwood
+10R19 A Dark Shape Sprang
+10R21 •Gollum, Mad Thing
+10R23 •Shelob, Her Ladyship
+10R25 •Aragorn, Elessar Telcontar
+10R28 •Denethor, Lord of Minas Tirith
+10R29 Drawing His Eye
+10R40 Easterling Berserker
+10R45 Mumak Chieftain
+10R46 Quelled
+10R48 Seasoned Leader
+10R51 Stampeded
+10R58 Dark Swooping Shadows
+10R59 •Gorbag, Covetous Captain
+10R60 •Gorbag's Sword
+10R68 •Ulaire Enquea, Thrall of the One
+10R71 •Ulaire Toldea, Thrall of the One
+10R72 •Eowyn, Lady of Ithilien
+10R75 •Advance Captain
+10R88 •Gothmog, Lieutenant of Morgul
+10R89 •Gothmog's Warg
+10R94 Orc Ravager
+10R100 Speak No More to Me
+10R101 Troll of Cirith Gorgor
+10R104 Birthday Present
